@@ -1,0 +1,39 @@
+Part,Value,Description,Package,Manufacturer,Manufacturer Part Number,Supplier,Order code,Notes,URL
+C2,47p,Capacitor,0603,KEMET,C0603X470J1GACTU,Farnell,2905080,±5% C0G / NP0,https://uk.farnell.com/kemet/c0603x470j1gactu/cap-47pf-100v-5-c0g-np0-0603/dp/2905080
+C3,47p,Capacitor,0603,KEMET,C0603X470J1GACTU,Farnell,2905080,±5% C0G / NP0,https://uk.farnell.com/kemet/c0603x470j1gactu/cap-47pf-100v-5-c0g-np0-0603/dp/2905080
+C10,10n,Capacitor,0603,KEMET,C0603X103J8JACTU,Farnell,2579112,±5% U2J,http://uk.farnell.com/kemet/c0603x103j8jactu/capacitor-mlcc-u2j-0-01uf-10v/dp/2579112
+C1,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C4,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C5,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C7,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C8,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C11,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C12,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C14,0.1u,Capacitor,0603,KEMET,C0603X104K8RACTU,Farnell,2904937,±10% X7R,https://uk.farnell.com/kemet/c0603x104k8ractu/cap-0-1-f-10v-10-x7r-0603/dp/2904937
+C6,10u,Capacitor,0805,KEMET,C0805C106K8PACTU,Farnell,1463362,±10% X5R,https://uk.farnell.com/kemet/c0805c106k8pactu/cap-10-f-10v-10-x5r-0805/dp/1463362
+C9,10u,Capacitor,0805,KEMET,C0805C106K8PACTU,Farnell,1463362,±10% X5R,https://uk.farnell.com/kemet/c0805c106k8pactu/cap-10-f-10v-10-x5r-0805/dp/1463362
+C13,10u,Tantalum Capacitor,1206 (EIA 3216–18),KEMET,T491A106K016AT,Farnell,1457414,±10% 16V,https://uk.farnell.com/kemet/t491a106k016at/cap-10-f-16v-10-1206-smd/dp/1457414
+R5,27,Resistor,0603,Panasonic,ERJ3GEYJ270V,Farnell,2059559,,https://uk.farnell.com/panasonic/erj3geyj270v/res-27r-5-0-1w-0603-thick-film/dp/2059559
+R6,27,Resistor,0603,Panasonic,ERJ3GEYJ270V,Farnell,2059559,,https://uk.farnell.com/panasonic/erj3geyj270v/res-27r-5-0-1w-0603-thick-film/dp/2059559
+R1,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R2,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R3,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R7,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R8,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R11,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R12,1k,Resistor,0603,Panasonic,ERJ3GEYJ102V,Farnell,2059601,,https://uk.farnell.com/panasonic/erj3geyj102v/res-1k-5-0-1w-0603-thick-film/dp/2059601
+R9,4.7k,Resistor,0603,Panasonic,ERJ3GEYJ472V,Farnell,2059619,,https://uk.farnell.com/panasonic/erj3geyj472v/res-4k7-5-0-1w-0603-thick-film/dp/2059619
+R10,4.7k,Resistor,0603,Panasonic,ERJ3GEYJ472V,Farnell,2059619,,https://uk.farnell.com/panasonic/erj3geyj472v/res-4k7-5-0-1w-0603-thick-film/dp/2059619
+R4,10k,Resistor,0603,Panasonic,ERJ3GEYJ103V,Farnell,2059627,,http://uk.farnell.com/panasonic-electronic-components/erj3geyj103v/res-thick-film-10k-5-0-1w-0603/dp/2059627
+RN1,10k,Array Chip Resistor,EXBV8V,Panasonic,EXBV8V103JV,Farnell,2060167,,https://uk.farnell.com/panasonic/exbv8v103jv/resistor-ccav-array-0603x4-10k/dp/2060167
+D3,,Red LED,0603,Kingbright,KPT-1608LVSECK-J3-PRV,Farnell,2610406,,https://uk.farnell.com/kingbright/kpt-1608lvseck-j3-prv/led-red-40mcd-625nm-smd/dp/2610406
+D5,,Red LED,0603,Kingbright,KPT-1608LVSECK-J3-PRV,Farnell,2610406,,https://uk.farnell.com/kingbright/kpt-1608lvseck-j3-prv/led-red-40mcd-625nm-smd/dp/2610406
+D4,,Green LED,0603,Kingbright,KPT-1608LVZGCK,Farnell,2610409,,https://uk.farnell.com/kingbright/kpt-1608lvzgck/led-green-50mcd-525nm-smd/dp/2610409
+D2,,Blue LED,0603,Kingbright,KPT-1608LVVBC-D,Farnell,2610410,,https://uk.farnell.com/kingbright/kpt-1608lvvbc-d/led-blue-24mcd-470nm-smd/dp/2610410
+D1,,RGB LED,0805,Würth Elektronik,150080M153000,Farnell,2764966,,https://uk.farnell.com/wurth-elektronik/150080m153000/led-red-grn-blue-112-285-70mcd/dp/2764966
+S1,,Small Tactile Joystick w/ Select Switch,SMD with guide bosses,Multicomp,MCMT5-F-V,Farnell,1316987,,https://uk.farnell.com/multicomp/mcmt5-f-v/navigation-switch-5way-smd/dp/1316987
+S2,,Momentary Switch (Pushbutton) - SPST,KMR2 (SMD 4.6x2.8mm),C & K Components,KMR221NG LFS,Farnell,2845727,Maybe change to grounded version next time,https://uk.farnell.com/c-k-components/kmr221ng-lfs/tactile-sw-spst-no-0-05a-32vdc/dp/2845727
+U1,,FT231X USB-UART Converter,SSOP-20,FTDI,FT231XS-R,Farnell,2081328,,https://uk.farnell.com/ftdi/ft231xs/i-f-usb2-0-fs-to-f-l-h-s-uart/dp/2081328
+U2,,3.3V voltage regulator,SOT23-5,Microchip,MIC5219-3.3YM5-TR,Farnell,2510252,,https://uk.farnell.com/microchip/mic5219-3-3ym5-tr/ldo-0-5vdo-0-5a-3-3v-1-5sot23/dp/2510252
+U3,,LSM9DS1 9DoF IMU,LGA-24,ST Microelectronics,LSM9DS1TR,Farnell,2532383,,https://uk.farnell.com/stmicroelectronics/lsm9ds1tr/mems-accelero-gyroscope-magneto/dp/2532383
+U4,,I2C 16-bit GPIO Expander,SSOP-28,Microchip,MCP23017-E/SS,Farnell,1467674,On schematic as MCP23017SS,http://uk.farnell.com/microchip/mcp23017-e-ss/ic-io-expander-16bit-smd/dp/1467674
