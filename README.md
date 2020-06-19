@@ -12,6 +12,12 @@ See https://github.com/yorkrobotlab/pi-puck for more information on the Pi-puck.
 ![PCB bottom](hardware/board-bottom.png)
 
 
+## XBee
+
+Scripts to set up the XBee hardware and update the firmware are in [xbee/](xbee/).
+Requires the Digi XBee Python Library (see https://github.com/digidotcom/xbee-python).
+
+
 ## Licence
 
 Hardware designs are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International Licence][cc-by-sa].
